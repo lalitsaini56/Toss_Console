@@ -1,0 +1,7 @@
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\bin\Debug\LalitSaini_08NOV2020.exe.config
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\bin\Debug\LalitSaini_08NOV2020.exe
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\bin\Debug\LalitSaini_08NOV2020.pdb
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\obj\Debug\LalitSaini_08NOV2020.csprojAssemblyReference.cache
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\obj\Debug\LalitSaini_08NOV2020.csproj.CoreCompileInputs.cache
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\obj\Debug\LalitSaini_08NOV2020.exe
+C:\Users\Hire\source\repos\LalitSaini_08NOV2020\obj\Debug\LalitSaini_08NOV2020.pdb
